@@ -26,5 +26,3 @@ module.exports = {
     },
   },
 };
-
-//deployed contract addres: 0x1Baa624F1D8d5B1F71b29f44501D6e882FdcCc36
