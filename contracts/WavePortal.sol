@@ -76,7 +76,7 @@ contract WavePortal {
         console.log("Random # generated: %d", seed);
 
         // if block to give a 50/50 chance user wins the ETH
-        if (seed <=50) {
+        if (seed <=10) {
             console.log("%s won!", msg.sender);
 
             // same code used before to send the prize to user
